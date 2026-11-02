@@ -23,4 +23,6 @@ Start with `md/01-design.md` (the design, 18 sections), then the four build-spec
 | [images/09-hours-by-world.png](images/09-hours-by-world.png) | Hours by world chart |
 | [images/17-production-timeline.png](images/17-production-timeline.png) | Production timeline |
 
-Images referenced by `md/01-design.md` live in `images/`.
+Images referenced by `md/01-design.md` live in `images/`, each with a text version (`.md`) beside the PNG.
+
+**If your reader truncates long files:** use `sections/` (one file per section, 42 files, each under 25 KB; `sections/README.md` is the reading order) instead of `md/`, or `git clone` the repo.

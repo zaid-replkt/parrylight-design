@@ -98,6 +98,8 @@ The game is four nested loops, and the inner two are where the skill lives. Ever
 
 ![stage loop · 6 steps, one permanent return](images/03-stage-loop.png)
 
+Text version of this diagram: [images/03-stage-loop.md](images/03-stage-loop.md)
+
 Each stage ends in rewards and a permanent upgrade step, so the next stage is entered stronger and with a new problem.
 
 **Session (10 to 20 minutes).** The home screen shows the next stage, any claimable reward and any quest that is one stage from completion, in that order. A session is two to four stages. Everything saves on stage completion and on room completion, so a phone call costs at most the current room.
@@ -215,6 +217,8 @@ Rules that keep it trustworthy:
 The camera is width-locked at 9 world units, follows the character vertically with a lead toward the enemies, and arenas are tall rectangles, so a narrow screen shows a full fight without zooming out. Taller phones see more of the arena above and below; nothing is ever cropped horizontally.
 
 ![portrait screen layout · 390 x 844 pt reference phone](images/06-portrait-layout.png)
+
+Text version of this diagram: [images/06-portrait-layout.md](images/06-portrait-layout.md)
 
 The thumbs own the lower third, the HUD sits in the top safe area, and the character is held above the thumb band so the fight is never under a hand.
 
@@ -355,6 +359,8 @@ There are no duplicate-based upgrades and no equipment gacha. The Forge shows ex
 The campaign is 8 worlds of 25 stages (24 stages and a boss), 63 side-dungeon stages and 30 trials: 293 authored stages that take about 30 hours to clear once at average skill, with retries counted and no stage repeated for resources.
 
 ![design budget, typed from the content inventory below · first-clear hours including retries](images/09-hours-by-world.png)
+
+Text version of this diagram: [images/09-hours-by-world.md](images/09-hours-by-world.md)
 
 Each world adds about 2.4 hours of campaign; side dungeons and trials lift the later worlds to over 4 hours each.
 
@@ -739,6 +745,8 @@ Success is measured against the top-quartile row of the 2026 benchmarks in secti
 The plan is gated on the one thing the research could not settle: whether tap-to-parry feels good enough under touch latency to carry the whole game. Six weeks of prototype answer that before anything else is built, and a world-1 vertical slice must hit D1 30% in a closed test before production of the other seven worlds starts.
 
 ![illustrative schedule · 4 phases, 3 gates, launch](images/17-production-timeline.png)
+
+Text version of this diagram: [images/17-production-timeline.md](images/17-production-timeline.md)
 
 Gates are go or no-go; a failed gate loops the phase, it does not skip it.
 

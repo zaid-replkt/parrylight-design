@@ -82,6 +82,247 @@
       "path": "images/17-production-timeline.png",
       "description": "Production timeline",
       "bytes": 86854
+    },
+    {
+      "path": "images/03-stage-loop.md",
+      "description": "Text version of the stage loop diagram (Mermaid + table)",
+      "bytes": 935
+    },
+    {
+      "path": "images/06-portrait-layout.md",
+      "description": "Text version of the portrait layout (ASCII)",
+      "bytes": 1897
+    },
+    {
+      "path": "images/09-hours-by-world.md",
+      "description": "Text version of the hours chart (table)",
+      "bytes": 680
+    },
+    {
+      "path": "images/17-production-timeline.md",
+      "description": "Text version of the timeline (Mermaid gantt + table)",
+      "bytes": 1254
+    },
+    {
+      "path": "sections/README.md",
+      "description": "Index of per-section files",
+      "bytes": 5010
+    },
+    {
+      "path": "sections/index.json",
+      "description": "Machine-readable index of per-section files",
+      "bytes": 5499
+    },
+    {
+      "path": "sections/01-01-1-overview.md",
+      "description": "GDD section",
+      "bytes": 3985
+    },
+    {
+      "path": "sections/01-02-2-research-and-analysis.md",
+      "description": "GDD section",
+      "bytes": 10474
+    },
+    {
+      "path": "sections/01-03-3-core-loops.md",
+      "description": "GDD section",
+      "bytes": 1852
+    },
+    {
+      "path": "sections/01-04-4-combat-system.md",
+      "description": "GDD section",
+      "bytes": 6530
+    },
+    {
+      "path": "sections/01-05-5-controls-and-input.md",
+      "description": "GDD section",
+      "bytes": 3920
+    },
+    {
+      "path": "sections/01-06-6-camera-and-portrait-presentation.md",
+      "description": "GDD section",
+      "bytes": 3975
+    },
+    {
+      "path": "sections/01-07-7-ui-and-ux.md",
+      "description": "GDD section",
+      "bytes": 4514
+    },
+    {
+      "path": "sections/01-08-8-player-progression.md",
+      "description": "GDD section",
+      "bytes": 4534
+    },
+    {
+      "path": "sections/01-09-9-content-structure-and-the-30-hour-budget.md",
+      "description": "GDD section",
+      "bytes": 4367
+    },
+    {
+      "path": "sections/01-10-10-enemy-and-boss-design.md",
+      "description": "GDD section",
+      "bytes": 4276
+    },
+    {
+      "path": "sections/01-11-11-encounter-and-level-design.md",
+      "description": "GDD section",
+      "bytes": 4658
+    },
+    {
+      "path": "sections/01-12-12-economy-and-monetization.md",
+      "description": "GDD section",
+      "bytes": 3344
+    },
+    {
+      "path": "sections/01-13-13-retention-and-liveops.md",
+      "description": "GDD section",
+      "bytes": 4535
+    },
+    {
+      "path": "sections/01-14-14-art-audio-and-game-feel.md",
+      "description": "GDD section",
+      "bytes": 3900
+    },
+    {
+      "path": "sections/01-15-15-technical-design.md",
+      "description": "GDD section",
+      "bytes": 5321
+    },
+    {
+      "path": "sections/01-16-16-analytics-and-success-metrics.md",
+      "description": "GDD section",
+      "bytes": 3764
+    },
+    {
+      "path": "sections/01-17-17-production-plan.md",
+      "description": "GDD section",
+      "bytes": 3838
+    },
+    {
+      "path": "sections/01-18-18-appendix.md",
+      "description": "GDD section",
+      "bytes": 7709
+    },
+    {
+      "path": "sections/02-01-a1-character-stats-level-curve-and-xp-curve.md",
+      "description": "GDD section",
+      "bytes": 4582
+    },
+    {
+      "path": "sections/02-02-a2-combat-resolution.md",
+      "description": "GDD section",
+      "bytes": 6097
+    },
+    {
+      "path": "sections/02-03-a3-equipment-numbers.md",
+      "description": "GDD section",
+      "bytes": 4778
+    },
+    {
+      "path": "sections/02-04-a4-enemy-numbers.md",
+      "description": "GDD section",
+      "bytes": 4778
+    },
+    {
+      "path": "sections/02-05-a5-state-machines-and-algorithms.md",
+      "description": "GDD section",
+      "bytes": 7316
+    },
+    {
+      "path": "sections/02-06-a6-save-file-schema.md",
+      "description": "GDD section",
+      "bytes": 4282
+    },
+    {
+      "path": "sections/02-07-a7-analytics-event-schema-and-remote-config-keys.md",
+      "description": "GDD section",
+      "bytes": 4723
+    },
+    {
+      "path": "sections/03-01-b1-boons-40.md",
+      "description": "GDD section",
+      "bytes": 4181
+    },
+    {
+      "path": "sections/03-02-b2-skill-trees-45-nodes.md",
+      "description": "GDD section",
+      "bytes": 4428
+    },
+    {
+      "path": "sections/03-03-b3-ring-affixes-world-materials-forge-recipes.md",
+      "description": "GDD section",
+      "bytes": 3550
+    },
+    {
+      "path": "sections/03-04-b4-world-1-hollow-orchard-all-25-stages.md",
+      "description": "GDD section",
+      "bytes": 7484
+    },
+    {
+      "path": "sections/03-05-b5-worlds-2-to-8-the-authoring-matrix.md",
+      "description": "GDD section",
+      "bytes": 5989
+    },
+    {
+      "path": "sections/03-06-b6-boss-scripts-8.md",
+      "description": "GDD section",
+      "bytes": 5791
+    },
+    {
+      "path": "sections/03-07-b7-side-dungeons-21-and-trials-30.md",
+      "description": "GDD section",
+      "bytes": 5126
+    },
+    {
+      "path": "sections/03-08-b8-engagement-content.md",
+      "description": "GDD section",
+      "bytes": 6300
+    },
+    {
+      "path": "sections/03-09-b9-shop-catalogue-cosmetics-and-ids.md",
+      "description": "GDD section",
+      "bytes": 2910
+    },
+    {
+      "path": "sections/04-01-c1-screen-inventory.md",
+      "description": "GDD section",
+      "bytes": 6354
+    },
+    {
+      "path": "sections/04-02-c2-combat-hud-and-action-button-states.md",
+      "description": "GDD section",
+      "bytes": 3377
+    },
+    {
+      "path": "sections/04-03-c3-tutorial-scripts.md",
+      "description": "GDD section",
+      "bytes": 3905
+    },
+    {
+      "path": "sections/04-04-c4-system-strings.md",
+      "description": "GDD section",
+      "bytes": 3643
+    },
+    {
+      "path": "sections/04-05-c5-settings.md",
+      "description": "GDD section",
+      "bytes": 1979
+    },
+    {
+      "path": "sections/05-01-d1-epics-in-build-order.md",
+      "description": "GDD section",
+      "bytes": 4212
+    },
+    {
+      "path": "sections/05-02-d2-tickets-for-the-prototype-and-the-vertical-slice.md",
+      "description": "GDD section",
+      "bytes": 6578
+    },
+    {
+      "path": "sections/05-03-d3-definition-of-done-and-the-content-pipeline.md",
+      "description": "GDD section",
+      "bytes": 3747
     }
-  ]
+  ],
+  "reading_advice": "If your reader truncates long files, read sections/ (one file per section, each under 25 KB) instead of md/. Diagrams have text versions next to the PNGs. git clone gives everything without truncation."
 }

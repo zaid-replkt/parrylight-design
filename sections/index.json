@@ -1,0 +1,212 @@
+[
+  {
+    "path": "sections/01-01-1-overview.md",
+    "title": "1. Overview",
+    "bytes": 3954
+  },
+  {
+    "path": "sections/01-02-2-research-and-analysis.md",
+    "title": "2. Research and analysis",
+    "bytes": 10443
+  },
+  {
+    "path": "sections/01-03-3-core-loops.md",
+    "title": "3. Core loops",
+    "bytes": 1820
+  },
+  {
+    "path": "sections/01-04-4-combat-system.md",
+    "title": "4. Combat system",
+    "bytes": 6499
+  },
+  {
+    "path": "sections/01-05-5-controls-and-input.md",
+    "title": "5. Controls and input",
+    "bytes": 3889
+  },
+  {
+    "path": "sections/01-06-6-camera-and-portrait-presentation.md",
+    "title": "6. Camera and portrait presentation",
+    "bytes": 3943
+  },
+  {
+    "path": "sections/01-07-7-ui-and-ux.md",
+    "title": "7. UI and UX",
+    "bytes": 4483
+  },
+  {
+    "path": "sections/01-08-8-player-progression.md",
+    "title": "8. Player progression",
+    "bytes": 4503
+  },
+  {
+    "path": "sections/01-09-9-content-structure-and-the-30-hour-budget.md",
+    "title": "9. Content structure and the 30-hour budget",
+    "bytes": 4335
+  },
+  {
+    "path": "sections/01-10-10-enemy-and-boss-design.md",
+    "title": "10. Enemy and boss design",
+    "bytes": 4245
+  },
+  {
+    "path": "sections/01-11-11-encounter-and-level-design.md",
+    "title": "11. Encounter and level design",
+    "bytes": 4627
+  },
+  {
+    "path": "sections/01-12-12-economy-and-monetization.md",
+    "title": "12. Economy and monetization",
+    "bytes": 3313
+  },
+  {
+    "path": "sections/01-13-13-retention-and-liveops.md",
+    "title": "13. Retention and LiveOps",
+    "bytes": 4504
+  },
+  {
+    "path": "sections/01-14-14-art-audio-and-game-feel.md",
+    "title": "14. Art, audio and game feel",
+    "bytes": 3869
+  },
+  {
+    "path": "sections/01-15-15-technical-design.md",
+    "title": "15. Technical design",
+    "bytes": 5290
+  },
+  {
+    "path": "sections/01-16-16-analytics-and-success-metrics.md",
+    "title": "16. Analytics and success metrics",
+    "bytes": 3733
+  },
+  {
+    "path": "sections/01-17-17-production-plan.md",
+    "title": "17. Production plan",
+    "bytes": 3806
+  },
+  {
+    "path": "sections/01-18-18-appendix.md",
+    "title": "18. Appendix",
+    "bytes": 7645
+  },
+  {
+    "path": "sections/02-01-a1-character-stats-level-curve-and-xp-curve.md",
+    "title": "A1. Character stats, level curve and XP curve",
+    "bytes": 4522
+  },
+  {
+    "path": "sections/02-02-a2-combat-resolution.md",
+    "title": "A2. Combat resolution",
+    "bytes": 6025
+  },
+  {
+    "path": "sections/02-03-a3-equipment-numbers.md",
+    "title": "A3. Equipment numbers",
+    "bytes": 4718
+  },
+  {
+    "path": "sections/02-04-a4-enemy-numbers.md",
+    "title": "A4. Enemy numbers",
+    "bytes": 4711
+  },
+  {
+    "path": "sections/02-05-a5-state-machines-and-algorithms.md",
+    "title": "A5. State machines and algorithms",
+    "bytes": 7258
+  },
+  {
+    "path": "sections/02-06-a6-save-file-schema.md",
+    "title": "A6. Save file schema",
+    "bytes": 4224
+  },
+  {
+    "path": "sections/02-07-a7-analytics-event-schema-and-remote-config-keys.md",
+    "title": "A7. Analytics event schema and remote-config keys",
+    "bytes": 4665
+  },
+  {
+    "path": "sections/03-01-b1-boons-40.md",
+    "title": "B1. Boons (40)",
+    "bytes": 4129
+  },
+  {
+    "path": "sections/03-02-b2-skill-trees-45-nodes.md",
+    "title": "B2. Skill trees (45 nodes)",
+    "bytes": 4376
+  },
+  {
+    "path": "sections/03-03-b3-ring-affixes-world-materials-forge-recipes.md",
+    "title": "B3. Ring affixes, world materials, Forge recipes",
+    "bytes": 3492
+  },
+  {
+    "path": "sections/03-04-b4-world-1-hollow-orchard-all-25-stages.md",
+    "title": "B4. World 1, Hollow Orchard: all 25 stages",
+    "bytes": 7326
+  },
+  {
+    "path": "sections/03-05-b5-worlds-2-to-8-the-authoring-matrix.md",
+    "title": "B5. Worlds 2 to 8: the authoring matrix",
+    "bytes": 5919
+  },
+  {
+    "path": "sections/03-06-b6-boss-scripts-8.md",
+    "title": "B6. Boss scripts (8)",
+    "bytes": 5737
+  },
+  {
+    "path": "sections/03-07-b7-side-dungeons-21-and-trials-30.md",
+    "title": "B7. Side dungeons (21) and trials (30)",
+    "bytes": 5074
+  },
+  {
+    "path": "sections/03-08-b8-engagement-content.md",
+    "title": "B8. Engagement content",
+    "bytes": 6245
+  },
+  {
+    "path": "sections/03-09-b9-shop-catalogue-cosmetics-and-ids.md",
+    "title": "B9. Shop catalogue, cosmetics and ids",
+    "bytes": 2858
+  },
+  {
+    "path": "sections/04-01-c1-screen-inventory.md",
+    "title": "C1. Screen inventory",
+    "bytes": 6300
+  },
+  {
+    "path": "sections/04-02-c2-combat-hud-and-action-button-states.md",
+    "title": "C2. Combat HUD and Action button states",
+    "bytes": 3323
+  },
+  {
+    "path": "sections/04-03-c3-tutorial-scripts.md",
+    "title": "C3. Tutorial scripts",
+    "bytes": 3851
+  },
+  {
+    "path": "sections/04-04-c4-system-strings.md",
+    "title": "C4. System strings",
+    "bytes": 3582
+  },
+  {
+    "path": "sections/04-05-c5-settings.md",
+    "title": "C5. Settings",
+    "bytes": 1925
+  },
+  {
+    "path": "sections/05-01-d1-epics-in-build-order.md",
+    "title": "D1. Epics in build order",
+    "bytes": 4167
+  },
+  {
+    "path": "sections/05-02-d2-tickets-for-the-prototype-and-the-vertical-slice.md",
+    "title": "D2. Tickets for the prototype and the vertical slice",
+    "bytes": 6533
+  },
+  {
+    "path": "sections/05-03-d3-definition-of-done-and-the-content-pipeline.md",
+    "title": "D3. Definition of done and the content pipeline",
+    "bytes": 3702
+  }
+]
