@@ -1,0 +1,87 @@
+{
+  "title": "Parrylight GDD",
+  "as_of": "2026-11-02",
+  "source_doc": "https://claude.ai/artifact/SATzj6UXw6tyMmvg5CLfjc",
+  "files": [
+    {
+      "path": "md/01-design.md",
+      "description": "Design (sections 1 to 18)",
+      "bytes": 84681
+    },
+    {
+      "path": "md/02-build-spec-A-formulas-and-systems.md",
+      "description": "Build spec A: formulas and systems",
+      "bytes": 36375
+    },
+    {
+      "path": "md/03-build-spec-B-content-tables.md",
+      "description": "Build spec B: content tables",
+      "bytes": 45499
+    },
+    {
+      "path": "md/04-build-spec-C-screens-and-copy.md",
+      "description": "Build spec C: screens and copy",
+      "bytes": 19132
+    },
+    {
+      "path": "md/05-build-spec-D-backlog.md",
+      "description": "Build spec D: backlog and build order",
+      "bytes": 14563
+    },
+    {
+      "path": "GDD-Parrylight-complete.md",
+      "description": "All five tabs in one Markdown file",
+      "bytes": 200278
+    },
+    {
+      "path": "data/level_table.csv",
+      "description": "Level 1 to 60: health, attack, XP",
+      "bytes": 1557
+    },
+    {
+      "path": "data/stage_xp.csv",
+      "description": "XP, coins and materials per stage, all 200 campaign stages",
+      "bytes": 3437
+    },
+    {
+      "path": "data/weapons.csv",
+      "description": "Weapon attack by family, rarity and level",
+      "bytes": 4719
+    },
+    {
+      "path": "data/enemies.json",
+      "description": "Enemy family base records, scaling, traits",
+      "bytes": 4029
+    },
+    {
+      "path": "data/remote_config_defaults.json",
+      "description": "Remote-config keys and defaults",
+      "bytes": 1392
+    },
+    {
+      "path": "data/stage_example_w2-s07.json",
+      "description": "Stage file example matching the schema in design section 11",
+      "bytes": 1739
+    },
+    {
+      "path": "images/03-stage-loop.png",
+      "description": "Stage loop diagram",
+      "bytes": 50213
+    },
+    {
+      "path": "images/06-portrait-layout.png",
+      "description": "Portrait screen layout",
+      "bytes": 118390
+    },
+    {
+      "path": "images/09-hours-by-world.png",
+      "description": "Hours by world chart",
+      "bytes": 43758
+    },
+    {
+      "path": "images/17-production-timeline.png",
+      "description": "Production timeline",
+      "bytes": 86854
+    }
+  ]
+}

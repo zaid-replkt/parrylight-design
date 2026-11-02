@@ -1,0 +1,217 @@
+{
+  "families": {
+    "thornback": {
+      "health": 126,
+      "defense": 0,
+      "attack": {
+        "swing": 12
+      },
+      "move_speed": 2.5,
+      "telegraph_ms": {
+        "swing": 800
+      },
+      "cooldown_s": 2.2,
+      "reach": 1.2,
+      "attacks": [
+        {
+          "id": "swing",
+          "colour": "white",
+          "telegraph_ms": 800,
+          "power": 12
+        }
+      ]
+    },
+    "shellback": {
+      "health": 115,
+      "defense": 2,
+      "attack": {
+        "jab": 12
+      },
+      "move_speed": 2.0,
+      "cooldown_s": 2.0,
+      "reach": 1.2,
+      "shield": {
+        "front": true,
+        "open_s": 3.0
+      },
+      "attacks": [
+        {
+          "id": "jab",
+          "colour": "white",
+          "telegraph_ms": 700,
+          "power": 12
+        }
+      ]
+    },
+    "wisp": {
+      "health": 76,
+      "defense": 0,
+      "move_speed": 3.5,
+      "cooldown_s": 2.6,
+      "reach": 1.0,
+      "blink": {
+        "marker_ms": 600
+      },
+      "attacks": [
+        {
+          "id": "strike",
+          "colour": "white",
+          "telegraph_ms": 500,
+          "power": 10
+        }
+      ]
+    },
+    "automaton": {
+      "health": 176,
+      "defense": 3,
+      "move_speed": 1.8,
+      "cooldown_s": 2.4,
+      "reach": 1.4,
+      "alternate": [
+        "jab",
+        "slam"
+      ],
+      "attacks": [
+        {
+          "id": "jab",
+          "colour": "white",
+          "telegraph_ms": 700,
+          "power": 10
+        },
+        {
+          "id": "slam",
+          "colour": "red",
+          "telegraph_ms": 900,
+          "power": 22,
+          "marker_radius": 1.6
+        }
+      ]
+    },
+    "stoker": {
+      "health": 88,
+      "defense": 0,
+      "move_speed": 2.2,
+      "cooldown_s": 3.0,
+      "reach": 5.0,
+      "hold_range": true,
+      "buff": {
+        "every_s": 6,
+        "attack_mult": 1.25,
+        "duration_s": 6,
+        "pulse_ms": 1000
+      },
+      "attacks": [
+        {
+          "id": "bolt",
+          "colour": "white",
+          "telegraph_ms": 650,
+          "power": 8,
+          "projectile": {
+            "speed": 6.0,
+            "reflectable": true
+          }
+        }
+      ]
+    },
+    "sentinel": {
+      "health": 139,
+      "defense": 2,
+      "move_speed": 1.6,
+      "cooldown_s": 3.2,
+      "attacks": [
+        {
+          "id": "ring",
+          "colour": "yellow",
+          "telegraph_ms": 1200,
+          "power": 18,
+          "ring_radius": 1.8,
+          "place_at_units": 3.0,
+          "white_edge": true
+        }
+      ]
+    },
+    "archer": {
+      "health": 63,
+      "defense": 0,
+      "move_speed": 2.0,
+      "cooldown_s": 2.8,
+      "reach": 7.0,
+      "hold_range": true,
+      "attacks": [
+        {
+          "id": "volley",
+          "colour": "white",
+          "telegraph_ms": 650,
+          "power": 7,
+          "count": 3,
+          "spacing_ms": 120,
+          "projectile": {
+            "speed": 7.0,
+            "reflectable": true
+          }
+        }
+      ]
+    }
+  },
+  "scaling": {
+    "M": [
+      1.0,
+      2.25,
+      3.16,
+      5.06,
+      6.44,
+      7.97,
+      11.05,
+      13.66
+    ],
+    "A": [
+      1.0,
+      1.92,
+      3.0,
+      4.17,
+      5.75,
+      7.5,
+      9.42,
+      11.58
+    ],
+    "stage_growth": 0.012,
+    "defense_per_world": 0.35,
+    "telegraph_floor_ms": 450,
+    "telegraph_world_shrink": 0.04,
+    "elite": {
+      "health": 4.0,
+      "attack": 1.4,
+      "defense_add": 2,
+      "size": 1.6,
+      "break_bar": 100
+    },
+    "boss": {
+      "health_thornbacks": 18,
+      "attack_mult": 1.7,
+      "break_decay_per_s": 6
+    }
+  },
+  "traits": {
+    "hasty": {
+      "telegraph": 0.85,
+      "speed": 1.15
+    },
+    "armoured": {
+      "health": 1.3,
+      "stagger_first_parry_only": true
+    },
+    "volatile": {
+      "ring_radius": 1.5,
+      "fill_s": 0.8,
+      "power_mult": 1.5
+    },
+    "linked": {
+      "share": 0.5
+    },
+    "vengeful": {
+      "radius": 3,
+      "attack_mult": 1.25,
+      "duration_s": 6
+    }
+  }
+}

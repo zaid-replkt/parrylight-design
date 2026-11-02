@@ -1,0 +1,103 @@
+{
+  "id": "w2-s07",
+  "world": 2,
+  "arena": {
+    "template": "saltflats_long",
+    "height": 24,
+    "rule": "tide_band",
+    "rule_params": {
+      "period_s": 9,
+      "push": 1.5
+    }
+  },
+  "recommended_level": 11,
+  "rooms": [
+    {
+      "type": "wave",
+      "spawns": [
+        {
+          "t": 0,
+          "edge": "top",
+          "family": "thornback",
+          "n": 2
+        },
+        {
+          "t": 6,
+          "edge": "bottom",
+          "family": "shellback",
+          "n": 1
+        }
+      ]
+    },
+    {
+      "type": "wave",
+      "spawns": [
+        {
+          "t": 0,
+          "edge": "top",
+          "family": "shellback",
+          "n": 2,
+          "traits": [
+            "hasty"
+          ]
+        }
+      ],
+      "boon_after": true
+    },
+    {
+      "type": "gauntlet",
+      "waves": 3,
+      "spawns_per_wave": [
+        {
+          "edge": "both",
+          "family": "mixed_w1_w2",
+          "n": 3
+        }
+      ]
+    },
+    {
+      "type": "elite",
+      "family": "shellback",
+      "traits": [
+        "armoured"
+      ],
+      "adds": {
+        "family": "thornback",
+        "n": 2,
+        "every_s": 12
+      }
+    }
+  ],
+  "boon_pool": [
+    "riposte_plus",
+    "chill_on_parry",
+    "second_wind",
+    "heavy_hands",
+    "quick_feet"
+  ],
+  "mastery": [
+    {
+      "type": "no_damage_room",
+      "room": 2
+    },
+    {
+      "type": "parries",
+      "n": 15
+    },
+    {
+      "type": "time_under_s",
+      "s": 240
+    }
+  ],
+  "rewards": {
+    "xp": 420,
+    "coins": 180,
+    "materials": {
+      "salt_shard": 3
+    },
+    "first_clear": {
+      "ring": "rolled_rare"
+    }
+  },
+  "new_decision": "Shielded enemies must be parried open while the tide pushes you sideways."
+}
